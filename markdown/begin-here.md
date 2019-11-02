@@ -31,21 +31,22 @@ Exemplo:
 ### Checkboxes
 
 Exemplo:
-- [] Desmarcado
+- [ ] Desmarcado
 - [x] Marcado
 
 **Código:**
 ```
-- [] Desmarcado
+- [ ] Desmarcado
 - [x] Marcado
 ```
 
 ### Formatação
 
 Exemplo:
-*Texto em itálico*
-**Texto em negrito**
-~~Texto rabiscado~~
+
+*Texto em itálico* |
+**Texto em negrito** |
+~~Texto rabiscado~~ 
 
 **Código**
 ```
@@ -67,19 +68,20 @@ Exemplo:
 ### Tabelas
 
 Exemplo:
-| Exemplo  | Exemplo       |  dawd |
-|----------|:-------------:|------:|
-| oitudo   |  exemplomeuex | dawdd |
-| bem      |    issoéume   |   aaa |
-| comvc??? | xemplokkklol  |    aa |
+
+| Exemplo | Exemplo2 | aa  |   |   |
+|---------|----------|-----|---|---|
+| Isso1   | Isso2    | aaa |   |   |
+| BB      | BB       | CC  |   |   |
+|         |          |     |   |   |
 
 **Código**
 ```
-| Exemplo  | Exemplo       |  dawd |
-|----------|:-------------:|------:|
-| oitudo   |  exemplomeuex | dawdd |
-| bem      |    issoéume   |   aaa |
-| comvc??? | xemplokkklol  |    aa |
+| Exemplo | Exemplo2 | aa  |   |   |
+|---------|----------|-----|---|---|
+| Isso1   | Isso2    | aaa |   |   |
+| BB      | BB       | CC  |   |   |
+|         |          |     |   |   |
 ```
 
 **Dica:** Alguns sites atuam como auxiliares de geração de tabelas. Estes podem lhe facilitar à desenhar uma tabela mais facilmente. Um exemplo é o [TablesGenerator](https://www.tablesgenerator.com/markdown_tables).
