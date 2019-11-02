@@ -58,6 +58,7 @@ Exemplo:
 ### Linha horizontal separadora
 
 Exemplo:
+
 ----------------------------------
 
 **Código**
@@ -87,6 +88,9 @@ Exemplo:
 **Dica:** Alguns sites atuam como auxiliares de geração de tabelas. Estes podem lhe facilitar à desenhar uma tabela mais facilmente. Um exemplo é o [TablesGenerator](https://www.tablesgenerator.com/markdown_tables).
 
 ### Links
+
+Exemplo:
+
 [Este é um link](#)
 
 **Código**
@@ -95,6 +99,9 @@ Exemplo:
 ```
 
 ### Imagens
+
+Exemplo:
+
 ![Descrição da imagem](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 **Código**
