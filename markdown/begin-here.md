@@ -83,3 +83,19 @@ Exemplo:
 ```
 
 **Dica:** Alguns sites atuam como auxiliares de geração de tabelas. Estes podem lhe facilitar à desenhar uma tabela mais facilmente. Um exemplo é o [TablesGenerator](https://www.tablesgenerator.com/markdown_tables).
+
+### Links
+[Este é um link](#)
+
+**Código**
+```
+[Este é um link](#)
+```
+
+### Imagens
+![Descrição da imagem](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+**Código**
+```
+![Descrição da imagem](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+```
