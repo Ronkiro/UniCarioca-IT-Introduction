@@ -4,4 +4,4 @@
 
 No mais, divirta-se com o conteúdo já escrito.
 
-[Um auxílio para quem quer aprender sobre Markdown](./markdown/begin-here.md)
+[Um auxílio para quem quer aprender sobre Markdown para auxiliar no repositório](./markdown/begin-here.md)
